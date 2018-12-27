@@ -52,9 +52,9 @@ Skills
   
 Achievements
 ======
-* 2017, Best Papers Award - ComSoc: II Workshop de Computação Social.
-* 2015, 
-* 2013, Certificate - Olimpíada Brasileira de Astronomia e Astronáutica, Sociedade Astronômica Brasileira e Agência Espacial Brasileira.
-* 2012, Full-Tuition Scholarship SESI High School & SENAI Vocational School 
-* 2010, Honorable Mention Certificate - Olimpíada Brasileira de Matemática das Escolas Públicas, Ministérios da Ciência e Tecnologia e da Educação.
-* 2007, Certificate - Jornada de Resolução de Problemas Matemáticos da Rede Municipal de Educação, Prefeitura de Curitiba.
+* 2017, Best Papers Award - ComSoc: II Social Computing Workshop.
+* 2015, Admission into Federal University of Technology (UTFPR)
+* 2013, Certificate - Brazilian Astronomy and Astronautic Olympiad (OBA), Brazilian Astronomical Society & Brazilian Space Agency
+* 2012, Full-Tuition Scholarship for SESI High School & SENAI Vocational School 
+* 2010, Honorable Mention Certificate - Brazilian Mathematics Olympiad of Public Schools (OBMEP), Ministry of Science and Technology & Ministry of Education
+* 2007, Certificate - Mathematical Problem Solving Day of the Municipal Education Network (in Portuguese, Jornada de Resolução de Problemas Matemáticos da Rede Municipal de Educação), Prefecture of Curitiba
