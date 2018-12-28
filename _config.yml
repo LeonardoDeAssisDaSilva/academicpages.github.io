@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leonardo / Personal Page"
 title_separator          : "-"
 name                     : &name "Leonardo de Assis da Silva"
-description              : &description "personal description"
+description              : &description "Personal page of Leonardo de Assis da Silva that contains his Curriculum Vitae (CV), Research Publications, portfolio of assignments with code and report projects, and past talks and presentation."
 url                      : https://leonardodeassisdasilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leonardodeassisdasilva/leonardodeassisdasilva.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leonardo de Assis da Silva"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "Senior Information Systems student at Federal University of Technology (UTFPR)"
   location         : "Curitiba, PR - Brazil"
   employer         :
