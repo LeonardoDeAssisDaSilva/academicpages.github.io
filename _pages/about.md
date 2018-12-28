@@ -8,3 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+## Under Construction
+
+### I am independent learner very interested about Artificial Intelligence topics. I also love discovering facts about different languages.
