@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* August 2017 to August 2018:  Research Assistant
+* August 2017 to August 2018:  Research Assistant - PIBIC
   * Federal University of Technology (UTFPR)
   <!-- * Duties included: -->
   * Supervisor: Professor [Thiago H. Silva](http://dainf.ct.utfpr.edu.br/~thiagohs/)
@@ -37,6 +37,7 @@ Talks
   
 Skills
 ======
+* Portuguese: Native
 * English: Advanced
 * Japanese: Intermediate
 * Programming Languages
@@ -47,7 +48,8 @@ Skills
   * Ruby
   * PHP
 * Machine Learning
-* Data collection and processing
+* Data mining
+* Natural Language Processing
 * Academic writing
   
 Achievements
