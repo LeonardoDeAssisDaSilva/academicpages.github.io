@@ -12,13 +12,18 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Information Systems, Federal University of Technology (UTFPR), 2019 (expected)
+* Bachelor of Science in Information Systems, Federal University of Technology (UTFPR), 2019
+  * Final Project: Metaphor detection and analysis on fake news. Advisor: Luiz Celso Gomes Junior
 * Vocational Diploma in Information Technology, Serviço Nacional de Aprendizagem Industrial (SENAI), 2014
 * High School Degree, Serviço Social da Indústria (SESI), 2014
 
 Work experience
 ======
-* August 2017 to August 2018:  Research Assistant - PIBIC
+* October 2019 - Present: Web Developer
+  * [Gebit Solucoes em Tecnologia da Informacao](https://www.gebit.com.br/)
+  <!-- * Duties included: -->
+
+* August 2017 - August 2018:  Research Assistant - PIBIC
   * Federal University of Technology (UTFPR)
   <!-- * Duties included: -->
   * Supervisor: Professor [Thiago H. Silva](http://dainf.ct.utfpr.edu.br/~thiagohs/)
@@ -40,16 +45,8 @@ Skills
 * Portuguese: Native
 * English: Advanced
 * Japanese: Intermediate
-* Programming Languages
-  * Python
-  * R
-  * C
-  * Java
-  * Ruby
-  * PHP
-* Machine Learning
-* Data mining
-* Natural Language Processing
+* Data mining & Natural Language Processing: Pandas, Scikit-Learn, Keras, NLTK, Seaborn
+* Web Development: Flask, Celery, Redis, PgBouncer, Docker, Laravel, Vue.js
 * Academic writing
   
 Achievements
