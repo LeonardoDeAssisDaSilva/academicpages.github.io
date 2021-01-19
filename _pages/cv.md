@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Science in Information Systems, Federal University of Technology (UTFPR), 2019
-  * Final Project: Metaphor detection and analysis on fake news. Advisor: Luiz Celso Gomes Junior
+  * Final Project: Metaphor detection and analysis on fake news. Advisor: Professor [Luiz Celso Gomes Junior](https://pessoal.dainf.ct.utfpr.edu.br/lcjunior/)
 * Vocational Diploma in Information Technology, Serviço Nacional de Aprendizagem Industrial (SENAI), 2014
 * High School Degree, Serviço Social da Indústria (SESI), 2014
 
