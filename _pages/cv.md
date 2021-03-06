@@ -20,10 +20,10 @@ Education
 Work experience
 ======
 * October 2019 - Present: Web Developer
-  * [Gebit Solucoes em Tecnologia da Informacao](https://www.gebit.com.br/)
+  * [Gebit Soluções em Tecnologia da Informação](https://www.gebit.com.br/)
   <!-- * Duties included: -->
 
-* August 2017 - August 2018:  Research Assistant - PIBIC
+* August 2017 - August 2018:  Undergraduate Research Assistant - PIBIC
   * Federal University of Technology (UTFPR)
   <!-- * Duties included: -->
   * Supervisor: Professor [Thiago H. Silva](http://dainf.ct.utfpr.edu.br/~thiagohs/)
@@ -51,9 +51,11 @@ Skills
   
 Achievements
 ======
+* 2021, Admission into Federal University of Technology (UTFPR) for the Graduate Program in Data Science Specialization
+* 2019, I've earned my Bsc. Degree in Information Systems at UTFPR!
 * 2018, Certificate - Institutional undergraduate research programme (PIBIC), National Council for Scientific and Technological Development (CNPq) & Fundação Araucária
 * 2017, Best Papers Award - ComSoc: II Social Computing Workshop.
-* 2015, Admission into Federal University of Technology (UTFPR)
+* 2015, Admission into Federal University of Technology (UTFPR) for Bachelor Course in Information Systems
 * 2013, Certificate - Brazilian Astronomy and Astronautic Olympiad (OBA), Brazilian Astronomical Society & Brazilian Space Agency
 * 2012, Full-Tuition Scholarship for SESI High School & SENAI Vocational School, Funding Authority for Studies and Projects (FINEP)
 * 2010, Honorable Mention Certificate - Brazilian Mathematics Olympiad of Public Schools (OBMEP), Ministry of Science and Technology & Ministry of Education
